@@ -106,7 +106,7 @@ public class MONOMIO {
         }else{
              r='-';
         }   //-
-        return r ; 
+        return r ; ///
     }
     
     //TOSTRING
@@ -117,7 +117,7 @@ public class MONOMIO {
         String  S= " " ;
         S =S +GetSigno()+ " "+ GetCoeficiente()+ " X^" + GetExponente() ;
         
-        return S ;
+        return S ; //  f
     }
     //llamadas con programacion orientada a objetos 
     public static void main(String[] args) {

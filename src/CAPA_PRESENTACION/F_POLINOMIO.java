@@ -126,7 +126,7 @@ public class F_POLINOMIO extends javax.swing.JFrame {
         A.SetCoeficiente(coeficiente);
           A.SetSigno(signoo);
         A.SetExponente(exponente);
-      
+      /////
         
       MOSTRARPOLI.setText(A.toString());
     }//GEN-LAST:event_jButton6ActionPerformed
